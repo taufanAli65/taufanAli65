@@ -1,5 +1,5 @@
 ### Hi there 👋
-dont hate me pls
+don't hate me pls
 
 <!--
 **taufanAli65/taufanAli65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
