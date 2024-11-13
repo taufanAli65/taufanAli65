@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, my name is Taufan Ali 👋
 don't hate me pls
 --
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taufanali65&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
