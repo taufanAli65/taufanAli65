@@ -30,11 +30,6 @@ As a third-year **Information Systems** student, I am passionate about building 
 
 ---
 
-## 🎓 Education  
-- **Bachelor of Computer Information Systems** | Universitas Ahmad Dahlan | GPA: 3.62  
-- **Computer and Network Engineering** | SMKN 2 Yogyakarta | GPA: 80.8  
----
-
 📫 **Contact Me**  
 Feel free to reach out via email at [taufanali65@gmail.com](mailto:taufanali65@gmail.com) or explore my projects on [GitHub](https://github.com/taufanAli65).  
 
