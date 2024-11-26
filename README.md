@@ -22,7 +22,7 @@ As a third-year **Information Systems** student, I am passionate about building 
 - **Web Development**: Node.js, Express.js, RESTful APIs  
 - **Cloud Services**: Google Cloud (App Engine, Firebase Firestore, Firebase Auth)  
 - **Database Management**: MySQL, SQLite, Firebase Firestore  
-- **Authentication & Security**: JWT (JSON Web Token), Role-Based Access Control  
+- **Authentication & Security**: JWT (JSON Web Token), Firebase Auth, Role-Based Access Control  
 - **Deployment**: Google Cloud App Engine, VPS (AlmaLinux)  
 - **Tools**: Git, GitHub, Docker, Postman  
 - **Soft Skills**: Team Leadership, Problem-Solving, Project Management  
