@@ -6,7 +6,7 @@
 ---
 
 ## 👨‍💻 About Me  
-As a third-year **Information Systems** student, I am passionate about building scalable backend systems, deploying secure cloud infrastructures, and delivering impactful software solutions. Proficient in **Node.js**, **Express.js**, **Firebase**, and other modern technologies, I aim to bring robust and efficient services to the tech industry.
+As a third-year **Information Systems** student, I am passionate about building scalable backend systems, deploying secure cloud infrastructures, and delivering impactful software solutions. Proficient in **Node.js**, **Express.js**, **Firebase**, **MySQL**, and other modern technologies, I aim to bring robust and efficient services to the tech industry.
 
 ---
 
