@@ -35,6 +35,7 @@ Feel free to reach out via email at [taufanali65@gmail.com](mailto:taufanali65@g
 
 ---
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taufanali65&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=taufanAli65)](https://git.io/streak-stats)
 <!--
 **taufanAli65/taufanAli65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
