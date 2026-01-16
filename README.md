@@ -1,52 +1,53 @@
-# Taufan Ali - Aspiring Backend Developer  
+# Hi there, I'm Taufan Ali (Alienz) 👋
 
-🚀 **Specializing in Backend Development, DevOps, and Cloud Engineering**  
-📍 Yogyakarta, Indonesia | 🌐 [LinkedIn](https://www.linkedin.com/in/taufan-ali-9b4a4218b/) 
+🚀 **Backend Developer**
+📍 Special Region of Yogyakarta, Indonesia
 
----
-
-## 👨‍💻 About Me  
-As a third-year **Information Systems** student, I am passionate about building scalable backend systems, deploying secure cloud infrastructures, and delivering impactful software solutions. Proficient in **Node.js**, **Express.js**, **Firebase**, **MySQL**, and other modern technologies, I aim to bring robust and efficient services to the tech industry.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/taufan-ali-9b4a4218b/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-red?style=flat-square&logo=gmail)](mailto:taufanali65@gmail.com)
 
 ---
 
-## 📜 Summary  
-- Proficient in **Python** and **JavaScript**, with a strong foundation in backend frameworks like **Express.js**.  
-- Experience in **API development**, **cloud infrastructure**, and **database optimization**.  
-- Enthusiastic about solving real-world problems with scalable and innovative software solutions.  
+## 👨‍💻 About Me
+I am a final-year **Computer Information Systems** student and a Freelance Backend Developer with a deep passion for **Software Architecture**. My expertise lies in building secure, scalable systems using **Go (Golang)**, **Python**, and **TypeScript**.
+
+Currently, I am focused on distributed systems, specifically implementing the **Saga Pattern** in **Microservices Architecture** and exploring Event-Driven solutions with **Kafka**.
+
+* 🔭 **Working on:** Distributed transaction consistency in microservices (Undergraduate Thesis).
+* 🌱 **Learning:** Advanced gRPC patterns & System Design.
+* 🏆 **Recent Achievement:** 2nd Place Winner at Refactory Hackathon 2025.
 
 ---
 
-## 🛠️ Skills  
-- **Programming Languages**: Python, JavaScript  
-- **Web Development**: Node.js, Express.js, RESTful APIs  
-- **Cloud Services**: Google Cloud (App Engine, Firebase Firestore, Firebase Auth)  
-- **Database Management**: MySQL, SQLite, Firebase Firestore  
-- **Authentication & Security**: JWT (JSON Web Token), Firebase Auth, Role-Based Access Control  
-- **Deployment**: Google Cloud App Engine, VPS (AlmaLinux)  
-- **Tools**: Git, GitHub, Postman  
-- **Soft Skills**: Team Leadership, Problem-Solving, Project Management  
-- **Languages**: Bahasa Indonesia (Native), English (Limited Working Proficiency)  
+## 🛠️ Tech Stack & Skills
+
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Backend Frameworks** | **Gin**, **FastAPI**, **Express.js**, **Node.js**, **gRPC** |
+| **Databases** | **PostgreSQL**, **MongoDB**, **Redis**, **MySQL** |
+| **Architecture** | Microservices, Domain-Driven Design (DDD), Saga Pattern, Event-Driven Architecture, RBAC |
+| **DevOps & Cloud** | **Docker**, **Google Cloud Platform (GCP)**, **Kafka (Redpanda)**, Git/GitHub |
+| **Tools** | Postman, Prisma ORM, GORM, SQLAlchemy |
 
 ---
 
-📫 **Contact Me**  
-Feel free to reach out via email at [taufanali65@gmail.com](mailto:taufanali65@gmail.com) or explore my projects on [GitHub](https://github.com/taufanAli65).  
+## 🏅 Honors & Certifications
+
+* 🏆 **2nd Place Winner (Runner Up)** - Refactory Hackathon (Dec 2025)
+    * *Team "Gatidur 2 Hari"* - Developed "Dibantuin", a Backstage plugin for automated project ticketing.
+* 📜 **Junior Mobile Developer** - BNSP (2024-2027)
+* 📜 **Junior Web Developer** - BNSP (2023-2026)
 
 ---
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=taufanali65&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=taufanAli65)](https://git.io/streak-stats)
-<!--
-**taufanAli65/taufanAli65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚡ Fun Facts
+* ☕ I brew my own coffee (Gayo beans, V60 manual brew) to debug my brain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufanali65&layout=compact&theme=dracula" alt="Top Langs" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=taufanAli65&theme=dracula" alt="GitHub Streak" />
+</div>
