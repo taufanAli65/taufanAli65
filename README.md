@@ -47,7 +47,9 @@ Currently, I am focused on distributed systems, specifically implementing the **
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taufanali65&layout=compact&theme=dracula" alt="Top Langs" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=taufanAli65&theme=dracula" alt="GitHub Streak" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taufanAli65&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=taufanAli65&theme=dracula)](https://git.io/streak-stats)
+
 </div>
