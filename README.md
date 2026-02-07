@@ -1,4 +1,4 @@
-# Hi there, I'm Taufan Ali (Alienz) 👋
+# Hi there, I'm Taufan Ali 👋
 
 🚀 **Backend Developer**
 📍 Special Region of Yogyakarta, Indonesia
