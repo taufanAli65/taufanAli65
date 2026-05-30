@@ -23,7 +23,7 @@ Currently, I am focused on distributed systems, specifically implementing the **
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
 | **Backend Frameworks** | **Gin**, **FastAPI**, **Spring Boot**, **Express.js**, **Node.js**, **gRPC** |
 | **Databases** | **PostgreSQL**, **MongoDB**, **Redis**, **MySQL** |
 | **Architecture** | Microservices, Domain-Driven Design (DDD), Saga Pattern, Event-Driven Architecture, RBAC |
